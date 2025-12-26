@@ -69,13 +69,13 @@ curl -L https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/mai
 
 ### 从 GitHub 直接运行
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install3.sh)
 ```
 
 
 ### 或者下载后运行
 ```bash
-curl -L https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install.sh -o install.sh
+curl -L https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install3.sh -o install.sh
 chmod +x install.sh
 ./install.sh
 ```
