@@ -20,7 +20,7 @@
 curl -L https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install.sh -o install.sh
 chmod +x install.sh
 ./install.sh
-
+、、、
 
 ### 新增无交互脚本（慎用）
 
