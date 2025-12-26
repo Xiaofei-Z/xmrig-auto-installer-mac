@@ -24,31 +24,31 @@ chmod +x install.sh
 
 ## 新增无交互脚本install2.sh（慎用）
 
-# 默认：自动安装并立即启动
+### 默认：自动安装并立即启动
 ./install.sh
 
-# 只安装，不启动
+### 只安装，不启动
 ./install.sh --no-start
 
-# 只下载文件
+### 只下载文件
 ./install.sh --download
 
-# 只创建配置文件
+### 只创建配置文件
 ./install.sh --config
 
-# 检查更新
+### 检查更新
 ./install.sh --update
 
-# 显示帮助
+### 显示帮助
 ./install.sh --help
 
 ### 一键运行命令（无交互）
 
-# 下载脚本并直接运行（全自动无确认）
+### 下载脚本并直接运行（全自动无确认）
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install2.sh)
 ```
-# 或者
+### 或者
 ```bash
 curl -L https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install2.sh | bash
 ```
