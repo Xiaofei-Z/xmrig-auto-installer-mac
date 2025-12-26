@@ -17,6 +17,6 @@
 
 ```bash
 # 下载并运行脚本
-curl -L https://raw.githubusercontent.com/YOUR_USERNAME/xmrig-auto-installer-mac/main/install.sh -o install.sh
+curl -L https://raw.githubusercontent.com/Xiaofei-Z/xmrig-auto-installer-mac/main/install.sh -o install.sh
 chmod +x install.sh
 ./install.sh
