@@ -7,7 +7,7 @@ set -e  # 遇到错误时退出脚本
 # 配置信息
 VERSION="6.25.0"
 ARCH="macos-arm64"
-GITHUB_REPO="YOUR_USERNAME/xmrig-auto-installer-mac"
+GITHUB_REPO="Xiaofei-Z/xmrig-auto-installer-mac"
 SCRIPT_URL="https://raw.githubusercontent.com/${GITHUB_REPO}/main/install.sh"
 TAR_FILE="xmrig-${VERSION}-${ARCH}.tar.gz"
 DOWNLOAD_URL="https://github.com/xmrig/xmrig/releases/download/v${VERSION}/${TAR_FILE}"
