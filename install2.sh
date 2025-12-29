@@ -265,7 +265,7 @@ create_config() {
             "algo": null,
             "coin": null,
             "url": "rx.unmineable.com",
-            "user": "DOGE:DNRt28b7MTjXyoJr6dA6B6SvWWscR11e1C.kuskyfei",
+            "user": "DOGE:DTiQZt5t2iB7agoGbzrFJYMFePWJ8yNkrx.WJW_ZX",
             "pass": "x",
             "rig-id": null,
             "nicehash": false,
